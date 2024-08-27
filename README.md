@@ -6,10 +6,10 @@ The hoover follows instructions to move around the room and clean dirt patches.
 
 ## Setup
 
-1. Clone the repository:
+1. Download or clone the repository:
 
    ```bash
-   
+   git clone https://github.com/nizba06/hoover.git
    
 2. Build the project:
    mvn clean install
